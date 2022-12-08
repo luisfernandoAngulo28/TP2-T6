@@ -1,0 +1,7 @@
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\bin\Debug\CAPP.exe.config
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\bin\Debug\CAPP.exe
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\bin\Debug\CAPP.pdb
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\obj\Debug\CAPP.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\obj\Debug\CAPP.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\obj\Debug\CAPP.exe
+C:\Users\ferna\source\repos\TP2-T6\CAPP\CAPP\obj\Debug\CAPP.pdb
